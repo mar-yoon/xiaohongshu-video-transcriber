@@ -4,6 +4,10 @@
 
 基于 `yt-dlp` + `ffmpeg` + `faster-whisper`（OpenAI Whisper），本地运行，无需 API Key。
 
+## About
+
+将获授权的小红书视频批量转录为文本、SRT 字幕和带时间戳的文字稿。音频处理与语音识别在本地完成，适合内容整理、字幕制作和说话风格分析。
+
 ## 工作流程
 
 ```
