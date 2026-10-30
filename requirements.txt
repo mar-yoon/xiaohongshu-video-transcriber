@@ -1,0 +1,8 @@
+# 小红书视频转录工具 — Python 依赖
+#
+# 安装: pip3 install -r requirements.txt
+# 或:   ./install.sh (自动安装所有依赖 + ffmpeg)
+
+yt-dlp>=2024.1.0
+faster-whisper>=1.0.0
+numpy>=1.20.0
